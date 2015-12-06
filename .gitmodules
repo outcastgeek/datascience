@@ -1,0 +1,3 @@
+[submodule "docker_pyspark"]
+	path = docker_pyspark
+	url = https://github.com/outcastgeek/docker_pyspark
